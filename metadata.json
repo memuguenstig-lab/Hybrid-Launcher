@@ -1,0 +1,6 @@
+{
+  "name": "Hybrid Launcher",
+  "description": "Ein wunderschöner, moderner iOS x Android Hybrid-Launcher mit elegantem Dock, gläsernen Widgets, Spotlight-Suche und App-Bibliothek.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
